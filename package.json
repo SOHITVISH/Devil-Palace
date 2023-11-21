@@ -3,8 +3,8 @@
   "type": "module",
   "version": "1.0.0",
   "private": true,
-  "repository": "git@github.com:doublespeakgames/adarkroom.git",
-  "author": "Michael Townsend <michael@doublespeakgames.com>",
+  "repository": "",
+  "author": "",
   "license": "MPL-2.0",
   "scripts": {
     "start": "node dev-server.js",
